@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Fbmmk</string>
+
+    <string name="welcome">WELCOME</string>
+    <string name="email">Email Address</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="notReg"><u>Help Center forgotpassword</u>.</string>
+    <string name="signup">Sign Up for Facebook</string>
+    <string name="firstname">First Name</string>
+    <string name="lastname">Last Name</string>
+    <string name="confirmpassword">Confirm Password</string>
+    <string name="phonenumber">Phone Number</string>
+    <string name="register">Register</string>
+    <string name="gender">gender</string>
+    <string name="update">update</string>
+    <string name="newpassword">New Password</string>
+    <string-array name="gend">
+        <item name="select">Select Gender</item>
+        <item name="male">Male</item>
+        <item name="female">Female</item>
+    </string-array>
+</resources>
